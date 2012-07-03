@@ -47,12 +47,12 @@ and the singular shall include the plural.
 6. "Contributor" &mdash; Those people and
    corporations that provide Contributions.
 
-7. "User" &mdash; Those people, projects, and companies which
-   make use of the Projects. Making use of a Project includes (but is
-   not limited to) compiling and/or running its content, taking some
-   action which causes its content to be used, copying its content,
-   distributing its content, modifying its content, and even taking
-   its content and/or ideas for a less direct purpose.
+7. "User" &mdash; Those people and companies which make use of the
+   Projects. Making use of a Project includes (but is not limited to)
+   compiling and/or running its content, taking some action which
+   causes its content to be used, copying its content, distributing
+   its content, modifying its content, and even taking its content
+   and/or ideas for a less direct purpose.
 
 
 ### Licensing Agreement
