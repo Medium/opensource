@@ -19,39 +19,39 @@ have their usual colloquial meanings.
 
 ### Terms
 
-1. "The Agreement" -- This document.
+1. "The Agreement" &mdash; This document.
 
-2. "You" / "Your" -- The person signing The Agreement.
+2. "You" / "Your" &mdash; The person signing The Agreement.
 
-3. "The Obvious Corporation" -- The company which manages the projects
+3. "The Obvious Corporation" &mdash; The company which manages the projects
    in question. The company's website is at <http://obvious.com/>.
 
-4. "Project" / "Projects" -- Open source projects being managed by The
+4. "Project" / "Projects" &mdash; Open source projects being managed by The
    Obvious Corporation. The projects may all be found at
    <https://github.com/Obvious> with an overview at
    <https://github.com/Obvious/open-source>.
 
-5. "Contribution" / "Contributions" -- Code, content, and ideas that
-   are meant to be integrated into Projects. A Contribution may take
-   the form of an issue (bug report) or a pull request (suggestion to
-   integrate content) filed with a Project. A Contribution might also
-   just be an email or other more general communication intended to be
-   received by one of The Contributors.
+5. "Contribution" / "Contributions" &mdash; Code, content, and ideas
+   that are meant to be integrated into Projects. A Contribution may
+   take the form of an issue (bug report) or a pull request
+   (suggestion to integrate content) filed with a Project. A
+   Contribution might also just be an email or other more general
+   communication intended to be received by one of The Contributors.
 
-6. "The Contributors" -- Those people and corporations that provide
+6. "The Contributors" &mdash; Those people and corporations that provide
    Contributions.
 
-7. "License" / "Licenses" -- The terms under which Projects are licensed.
-   Each Project may have a different License. In any case, the License
-   for a given Project is clearly identified in the documentation for
-   that Project.
+7. "License" / "Licenses" &mdash; The terms under which Projects are
+   licensed. Each Project may have a different License. In any case,
+   the License for a given Project is clearly identified in the
+   documentation for that Project.
 
-8. "The Users" -- Those people, projects, and companies which make use
-   of the Projects. Making use of a Project includes (but is not
-   limited to) compiling and/or running its content, taking some
+8. "The Users" &mdash; Those people, projects, and companies which
+   make use of the Projects. Making use of a Project includes (but is
+   not limited to) compiling and/or running its content, taking some
    action which causes its content to be used, copying its content,
-   distributing its content, modifying its content, and even taking its
-   content and/or ideas for a less direct purpose.
+   distributing its content, modifying its content, and even taking
+   its content and/or ideas for a less direct purpose.
 
 
 ### Agreement Per Se
