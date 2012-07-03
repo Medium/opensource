@@ -6,9 +6,14 @@ Version 1.0
 
 ### Preface
 
-The Agreement is an agreement between You, The Users, The
+The Agreement is an agreement between You, the Users, the
 Contributors, and The Obvious Corporation. The intent of The Agreement
 is to clarify what it means for You to become one of The Contributors.
+
+The Agreement is meant to protect You, the Users, the Contributors,
+and The Obvious Corporation from the malicious misdeeds of others.
+The Agreement is *not* intended to restrict how You use Your own
+Contributions.
 
 The Agreement is written in plain English and as such is meant to be
 reasonably understood by You and all those affected by it. The terms
@@ -27,7 +32,7 @@ have their usual colloquial meanings.
    in question. The company's website is at <http://obvious.com/>.
 
 4. "Project" / "Projects" &mdash; Open source projects being managed by The
-   Obvious Corporation. The projects may all be found at
+   Obvious Corporation. The Projects may all be found at
    <https://github.com/Obvious> with an overview at
    <https://github.com/Obvious/open-source>.
 
@@ -38,17 +43,17 @@ have their usual colloquial meanings.
    up-front, "This is not a contribution." Contributions may take
    other forms as well, including (but not limited to) email or other
    more general communication intended to be received by one or more
-   of The Contributors.
+   Contributors.
 
-6. "The Contributors" &mdash; Those people and corporations that provide
-   Contributions.
+6. "Contributor" / "Contributors" &mdash; Those people and
+   corporations that provide Contributions.
 
 7. "License" / "Licenses" &mdash; The terms under which Projects are
    licensed. Each Project may have a different License. In any case,
    the License for a given Project is clearly identified in the
    documentation for that Project.
 
-8. "The Users" &mdash; Those people, projects, and companies which
+8. "User" / "Users" &mdash; Those people, projects, and companies which
    make use of the Projects. Making use of a Project includes (but is
    not limited to) compiling and/or running its content, taking some
    action which causes its content to be used, copying its content,
@@ -64,10 +69,15 @@ When You provide a Contribution to a Project:
 
 * You agree to license that Contribution under the terms of the
   License of that Project. More specifically, You grant an irrevocable
-  license for Your Contribution to The Users, The Contributors, and
+  license for Your Contribution to the Users, the Contributors, and
   The Obvious Corporation.
 
 * You assert that You are free and able to license Your Contribution
   under the License of that Project.
+
+* If Your employer has rights to intellectual property that You create
+  which may include Your Contribution, then You assert that Your
+  employer has granted You explicit permission to make Contributions
+  on behalf of Your employer.
 
 * You assert that You are free and able to agree to The Agreement.

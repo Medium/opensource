@@ -12,11 +12,13 @@ Contributors License Agreement. It's easy and pretty painless!
    have one.
 
 3. File a pull request on this project (the Obvious Open Source
-   Umbrella Project), as outlined below.
+   Umbrella Project), as [outlined below](#filing-the-pull-request).
 
-4. Wait for an Obvious team member to merge your pull request.
+4. Email the Obvious Open Sourceror, as [outlined below](#sending-the-email).
 
-5. Contribute!
+5. Wait for an Obvious team member to merge your pull request.
+
+6. Contribute!
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -39,7 +41,7 @@ Put the following in the file:
 
 I hereby agree to the terms of the Obvious Contributors License
 Agreement, version 1.0, with MD5 checksum
-9b8710d1964326d63cb641f2b4b442e1.
+29267948882feb30138a7f257b14bbef.
 
 I furthermore declare that I am free and able to make this agreement
 and sign this declaration.
@@ -57,6 +59,30 @@ Replace the bracketed text as follows:
 * `[your github userid]` with your GitHub userid.
 
 That's it!
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Sending the Email
+-----------------
+
+Send an email to [Dan Bornstein](mailto:danfuzz@obvious.com),
+Obvious's official Open Sourceror, with the subject "OCLA" and
+the following body:
+
+```
+[your name]
+[your github userid]
+[your address]
+[your phone number]
+```
+
+Replace the bracketed text as follows:
+
+* `[your name]` with your name.
+* `[your github userid]` with your GitHub userid.
+* `[your address]` with a physical mailing address at which you can be
+  contacted.
+* `[your phone number]` with a phone number at which you can be contacted.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -94,11 +120,18 @@ be a dispute about whether any of that took place, it's not just
 he-said she-said, because GitHub has unbiased information which it can
 use to shed light on the situation.
 
+In addition to what's in the pull request, we need to have a little
+bit of extra information, which can help us verify that you are who
+you say you are, should the need arise. Since people rightly desire
+privacy about their addresses and phone numbers, we don't ask for
+this information to be made public in the pull request, instead going
+for a traditional email.
+
 The upshot is that filing a pull request containing a statement of
-agreement to the OCLA is close enough to having submitted a physical
-document saying the same thing. That is, this tactic is a workable
-solution to the problem. And since fits in naturally with how actual
-contributions get made, what we do here ends up being the
-least-intrusive way of getting the assurance that we &mdash; and the
-open source community in general &mdash; need, such that we all can
-operate in safety.
+agreement to the OCLA, along with the supplementary email, is close
+enough to having submitted a physical document saying the same
+things. That is, this tactic is a workable solution to the problem. And
+since fits in naturally with how actual contributions get made, what
+we do here ends up being the least-intrusive way of getting the
+assurance that we &mdash; and the open source community in general
+&mdash; need, such that we all can operate in safety.
