@@ -101,12 +101,11 @@ which would in turn keep it in a real filing cabinet.
 
 We no longer live in that time.
 
-The real point of all this is to have an record of someone's
-statement, such that they can't credibly claim later that they didn't
-make that statement. That is, what we want is a *non-repudiable*
-record of someone's statement. This provides the company and the open
-projects it manages protection against malicious would-be
-contributors.
+The point of all this is to have a record of someone's statement, such
+that they can't credibly claim later that they didn't make that
+statement. That is, what we want is a *non-repudiable* record of
+someone's statement. This provides the company and the open projects
+it manages protection against malicious would-be contributors.
 
 One wonderful thing about the world we live in today is that we can
 achieve this non-reputiability without having to have a physical
