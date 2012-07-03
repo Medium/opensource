@@ -96,8 +96,9 @@ use to shed light on the situation.
 
 The upshot is that filing a pull request containing a statement of
 agreement to the OCLA is close enough to having submitted a physical
-document saying the same thing to be a workable solution to the
-problem. And this scheme fits in naturally with how actual
+document saying the same thing. That is, this tactic is a workable
+solution to the problem. And since fits in naturally with how actual
 contributions get made, what we do here ends up being the
-least-intrusive way of getting the assurance we &mdash; and the open
-source community in general &mdash; need to operate in safety.
+least-intrusive way of getting the assurance that we &mdash; and the
+open source community in general &mdash; need, such that we can
+operate in safety.
