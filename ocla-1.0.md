@@ -25,7 +25,7 @@ and the singular shall include the plural.
 
 1. "Agreement" &mdash; This document.
 
-2. "You" / "Your" &mdash; The individual signing The Agreement.
+2. "You" / "Your" &mdash; The individual signing this Agreement.
 
 3. "The Obvious Corporation" &mdash; The company which manages the
    Projects. The company's website is at <http://obvious.com/>.
@@ -66,8 +66,8 @@ When You provide a Contribution to a Project:
   license for Your Contribution to the Users, the Contributors, and
   The Obvious Corporation.
 
-* You assert that You are free and able to license Your Contribution
-  under the license of that Project.
+* You assert that You have the authority and are able to license Your
+  Contribution under the license of that Project.
 
 * If Your employer has rights to intellectual property that You create
   which may include Your Contribution, then You assert that Your
@@ -76,9 +76,10 @@ When You provide a Contribution to a Project:
 
 Furthermore:
 
-* You assert that You are free and able to agree to The Agreement.
+* You assert that You have the authority and are able to enter into this
+  Agreement.
 
 * If You become aware of a problem with any of Your Contributions or
-  with the fact that You have signed The Agreement, then You agree to
+  with the fact that You have signed this Agreement, then You agree to
   inform The Obvious Corporation about the problem, without any undue
   delay.
