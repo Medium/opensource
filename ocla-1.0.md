@@ -47,12 +47,7 @@ and the singular shall include the plural.
 6. "Contributor" &mdash; Those people and
    corporations that provide Contributions.
 
-7. "License" &mdash; The terms under which Projects are
-   licensed. Each Project may have a different License. In any case,
-   the License for a given Project is clearly identified in the
-   documentation for that Project.
-
-8. "User" &mdash; Those people, projects, and companies which
+7. "User" &mdash; Those people, projects, and companies which
    make use of the Projects. Making use of a Project includes (but is
    not limited to) compiling and/or running its content, taking some
    action which causes its content to be used, copying its content,
@@ -67,12 +62,12 @@ When You provide a Contribution to a Project:
 * You assert that the Contribution was authored by You.
 
 * You license that Contribution under the terms of the
-  License of that Project. More specifically, You grant an irrevocable
+  license of that Project. More specifically, You grant an irrevocable
   license for Your Contribution to the Users, the Contributors, and
   The Obvious Corporation.
 
 * You assert that You are free and able to license Your Contribution
-  under the License of that Project.
+  under the license of that Project.
 
 * If Your employer has rights to intellectual property that You create
   which may include Your Contribution, then You assert that Your
