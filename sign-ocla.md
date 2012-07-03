@@ -39,7 +39,7 @@ Put the following in the file:
 
 I hereby agree to the terms of the Obvious Contributors License
 Agreement, version 1.0, with MD5 checksum
-6c5a7756d4641dbbc0d9ad6f202ffabf.
+9b8710d1964326d63cb641f2b4b442e1.
 
 I furthermore declare that I am free and able to make this agreement
 and sign this declaration.

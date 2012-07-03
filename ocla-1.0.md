@@ -32,11 +32,13 @@ have their usual colloquial meanings.
    <https://github.com/Obvious/open-source>.
 
 5. "Contribution" / "Contributions" &mdash; Code, content, and ideas
-   that are meant to be integrated into Projects. A Contribution may
-   take the form of an issue (bug report) or a pull request
-   (suggestion to integrate content) filed with a Project. A
-   Contribution might also just be an email or other more general
-   communication intended to be received by one of The Contributors.
+   that are meant to be integrated into Projects. Issues (bug report)
+   and pull requests (suggestions to integrate content) filed on a
+   Project are implicitly Contributions, unless they clearly state
+   up-front, "This is not a contribution." Contributions may take
+   other forms as well, including (but not limited to) email or other
+   more general communication intended to be received by one or more
+   of The Contributors.
 
 6. "The Contributors" &mdash; Those people and corporations that provide
    Contributions.
@@ -57,6 +59,8 @@ have their usual colloquial meanings.
 ### Agreement Per Se
 
 When You provide a Contribution to a Project:
+
+* You assert that the Contribution was authored by You.
 
 * You agree to license that Contribution under the terms of the
   License of that Project. More specifically, You grant an irrevocable
