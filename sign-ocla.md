@@ -5,7 +5,7 @@ This page is the step-by-step guide to signing the Obvious
 Contributors License Agreement. It's easy and pretty painless!
 
 1. First and foremost, read [the current version of the
-   OCLA](./ocla-1.0.md). It is written to be as close to plain
+   OCLA](ocla-1.0.md). It is written to be as close to plain
    English as possible.
 
 2. Make an account on [GitHub](https://github.com/) if you don't already
