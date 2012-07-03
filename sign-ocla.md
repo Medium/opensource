@@ -100,5 +100,5 @@ document saying the same thing. That is, this tactic is a workable
 solution to the problem. And since fits in naturally with how actual
 contributions get made, what we do here ends up being the
 least-intrusive way of getting the assurance that we &mdash; and the
-open source community in general &mdash; need, such that we can
+open source community in general &mdash; need, such that we all can
 operate in safety.
