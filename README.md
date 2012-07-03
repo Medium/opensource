@@ -17,10 +17,10 @@ On this page:
 
 Other pages:
 
-* [Sign the OCLA](./sign-ocla.md)
-* [Contributors](./contributors)
-* [Obvious Contributor License Agreement 1.0](./ocla-1.0.md)
-* [Apache License 2.0](./apache-license-2.0.md)
+* [Sign the OCLA](sign-ocla.md)
+* [Contributors](contributors)
+* [Obvious Contributor License Agreement 1.0](ocla-1.0.md)
+* [Apache License 2.0](apache-license-2.0.md)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -53,7 +53,7 @@ To get started with this process, visit the
 [Sign the OCLA](sign-ocla.md) page.
 
 For reference, the standard open source license used by The Obvious
-Corporation is the [Apache License 2.0](./apache-license-2.0.md) with
+Corporation is the [Apache License 2.0](apache-license-2.0.md) with
 a small clarifying preamble.
 
 If you have any questions about any of this, please raise them by
