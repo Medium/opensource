@@ -4,7 +4,7 @@ Sign the OCLA: Dead Tree Edition
 Even though we at The Obvious Corporation would love to leave the
 paper world behind, various jurisdictions require that we also accept
 physically signed documents. If you wish to take advantage of this
-when signing the OCLA, then all you need to do is mail a document
+when signing the OCLA, then all you need to do is mail us a document
 with the following content:
 
 ```
