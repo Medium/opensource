@@ -105,7 +105,8 @@ The real point of all this is to have an record of someone's
 statement, such that they can't credibly claim later that they didn't
 make that statement. That is, what we want is a *non-repudiable*
 record of someone's statement. This provides the company and the open
-source project protection against malicious would-be contributors.
+projects it manages protection against malicious would-be
+contributors.
 
 One wonderful thing about the world we live in today is that we can
 achieve this non-reputiability without having to have a physical
@@ -126,11 +127,11 @@ he-said she-said, because GitHub has unbiased information which it can
 use to shed light on the situation.
 
 In addition to what's in the pull request, we need to have a little
-bit of extra information, which can help us verify that you are who
-you say you are, should the need arise. Since people rightly desire
-privacy about their addresses and phone numbers, we don't ask for
-this information to be made public in the pull request, instead going
-for a traditional email.
+bit of extra information, which can help verify that you are who you
+say you are, should the need arise. Since people rightly desire
+privacy about their addresses and phone numbers, we don't ask for this
+information to be made public in the pull request, instead going for a
+traditional email.
 
 The upshot is that filing a pull request containing a statement of
 agreement to the OCLA, along with the supplementary email, is close
@@ -138,5 +139,4 @@ enough to having submitted a physical document saying the same
 things. That is, this tactic is a workable solution to the problem. And
 since fits in naturally with how actual contributions get made, what
 we do here ends up being the least-intrusive way of getting the
-assurance that we &mdash; and the open source community in general
-&mdash; need, such that we all can operate in safety.
+assurance that we all need to operate in safety.
