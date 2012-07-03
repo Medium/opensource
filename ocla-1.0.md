@@ -77,7 +77,14 @@ When You provide a Contribution to a Project:
 
 * If Your employer has rights to intellectual property that You create
   which may include Your Contribution, then You assert that Your
-  employer has granted You explicit permission to make Contributions
+  employer has granted You explicit permission to the Contribution
   on behalf of Your employer.
 
+Furthermore:
+
 * You assert that You are free and able to agree to The Agreement.
+
+* If You become aware of a problem with any of Your Contributions or
+  with the fact that You have signed The Agreement, then You agree to
+  inform The Obvious Corporation about the problem, without any undue
+  delay.
