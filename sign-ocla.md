@@ -94,10 +94,10 @@ Replace the bracketed text as follows:
 Rationale
 ---------
 
-In an older time, this sort of agreement might have been collected
-in paper form. You might have been asked to physically sign a piece
-of paper and then send it into an organization (perhaps physically
-or as a fax), which would in turn keep it in a real filing cabinet.
+In an older time, this sort of agreement might have been collected in
+paper form. You might have been asked to sign a piece of paper and
+then send it into an organization (perhaps physically or as a fax),
+which would in turn keep it in a real filing cabinet.
 
 We no longer live in that time.
 
