@@ -6,7 +6,7 @@ Version 1.0
 
 ### Preface
 
-The Agreement is is an agreement between You, The Users, The
+The Agreement is an agreement between You, The Users, The
 Contributors, and The Obvious Corporation. The intent of The Agreement
 is to clarify what it means for You to become one of The Contributors.
 
