@@ -10,14 +10,14 @@ The Agreement is is an agreement between You, The Users, The
 Contributors, and The Obvious Corporation. The intent of The Agreement
 is to clarify what it means for You to become one of The Contributors.
 
-The Agreemen is written in plain English and as such is meant to be
+The Agreement is written in plain English and as such is meant to be
 reasonably understood by You and all those affected by it. The terms
 defined below and used throughout this document are capitalized in
 order to reduce ambiguity, but they should generally be understood to
 have their usual colloquial meanings.
 
 
-### Terms
+### Definitions
 
 1. "The Agreement" &mdash; This document.
 
