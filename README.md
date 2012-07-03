@@ -11,8 +11,8 @@ Table Of Contents
 
 On this page:
 
-* [Note to External Contributors](#link)
-* [List of Projects](#link)
+* [Note to External Contributors](#note-to-external-contributors)
+* [List of Projects](#list-of-projects)
 
 Other pages:
 
