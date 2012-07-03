@@ -4,7 +4,8 @@ Open Source Efforts at The Obvious Corporation
 This repository serves as the umbrella project to represent the
 various open source efforts at The Obvious Corporation
 <http://obvious.com>. Come here to get an overview of the various
-projects, and to learn how to contribute to them.
+projects, to learn how to contribute to them, and to sign up as a
+contributor.
 
 Table Of Contents
 -----------------
