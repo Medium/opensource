@@ -72,6 +72,46 @@ Your friends at The Obvious Corporation
 List of Projects
 ----------------
 
+### Node Libraries
+
+These are [Node](http://nodejs.org/) modules that can be used pretty directly as
+libraries in applications.
+
+* [Async Builder](https://github.com/Obvious/asyncBuilder) &mdash;
+  Asynchronous dependency loading "the cool way".
+* [Bidar](https://github.com/Obvious/bidar) &mdash; Binary serialization
+  and object iteration.
+* [Daemon Sauce](https://github.com/Obvious/daemonsauce) &mdash; Making
+  it easy to be a proper *nix daemon.
+* [Leb](https://github.com/Obvious/leb) &mdash; Utilities for the LEB128
+  number representation.
+* [Matador](https://github.com/Obvious/matador) &mdash; Application
+  framework.
+* [Oid](https://github.com/Obvious/oid) &mdash; Utilities for object
+  identity.
+* [Pipette](https://github.com/Obvious/pipette) &mdash; Stream and pipe
+  utilities.
+* [Populator](https://github.com/Obvious/populator) &mdash;
+  Asynchronous object populator.
+* [Producers](https://github.com/Obvious/producer) &mdash; Producers pattern
+  implementation.
+* [Ursa](https://github.com/Obvious/ursa) &mdash; RSA public/private key
+  crypto.
+* [Typ](https://github.com/Obvious/typ) &mdash; Type predicates and
+  assertions.
+* [Variants](https://github.com/Obvious/variants) &mdash; A variants
+  (experiments, mods) system with dynamic flag evaluation.
+
+### Node Build Tools
+
+These are build-time tools packaged as [Node](http://nodejs.org/) modules.
+
+* [Soynode](https://github.com/Obvious/soynode) &mdash; Integration of
+  the Soy template system (part of Google Closure).
+* [Plovr](https://github.com/Obvious/plovr) &mdash; Integration of
+  the Plovr JavaScript build tool (part of Google Closure).
+
+### Other
+
 * [Open Source Umbrella Project](https://github.com/Obvious/open-source)
-  &mdash; This site
-* [Matador](https://github.com/Obvious/matador)
+  &mdash; This site.
