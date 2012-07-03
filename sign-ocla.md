@@ -20,6 +20,10 @@ Contributors License Agreement. It's easy and pretty painless!
 
 6. Contribute!
 
+If you wish to, you may also file the OCLA in paper form. Please
+see the instructions on [the paper OCLA page](sign-ocla-paper.md)
+for details.
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 Filing the Pull Request
@@ -41,7 +45,7 @@ Put the following in the file:
 
 I hereby agree to the terms of the Obvious Contributors License
 Agreement, version 1.0, with MD5 checksum
-c788eb67611221fa1a55ca1415234958.
+fbe613f727e76c93e4a5967536c87fbe.
 
 I furthermore declare that I am free and able to make this agreement
 and sign this declaration.
