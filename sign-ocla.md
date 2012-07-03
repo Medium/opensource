@@ -76,7 +76,7 @@ of the Obvious Contributors License Agreement.
 Signed,
 
 [your name]
-[your github userid]
+https://github.com/[your github userid]
 [your address]
 [your phone number]
 ```
