@@ -128,8 +128,10 @@ use to shed light on the situation.
 
 In addition to what's in the pull request, we need to have a little
 bit of extra information, which can help verify that you are who you
-say you are, should the need arise. Since people rightly desire
-privacy about their addresses and phone numbers, we don't ask for this
+say you are, should the need arise. In particular, we need to have
+some information that can link you to your contributions, even if you
+later delete your GitHub account. Since people rightly desire privacy
+about their addresses and phone numbers, we don't ask for this
 information to be made public in the pull request, instead going for a
 traditional email.
 
