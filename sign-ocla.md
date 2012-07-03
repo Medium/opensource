@@ -108,7 +108,7 @@ record of someone's statement. This provides the company and the open
 source project protection against malicious would-be contributors.
 
 One wonderful thing about the world we live in today is that we can
-achieve this non-reputiatability without having to have a physical
+achieve this non-reputiability without having to have a physical
 document. In the case of the OCLA, we bootstrap this ability off of
 the infrastructure provided by GitHub. In particular, we treat GitHub
 as a neutral third party to witness the transactions between a
