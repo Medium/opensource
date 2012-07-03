@@ -59,9 +59,9 @@ a small clarifying preamble.
 If you have any questions about any of this, please raise them by
 filing a bug on this project, since there's a good chance that if you
 have a question then someone else has the same question too. If it is
-really and truly a private matter, then you can mail [Dan
-Bornstein](mailto:danfuzz@obvious.com), who is Obvious's official
-"open sourceror".
+really and truly a private matter, then you can mail Obvious's
+official Open Sourceror privately, at
+[open-source@obvious.com](mailto:open-source@obvious.com).
 
 Thanks, and happy hacking!
 

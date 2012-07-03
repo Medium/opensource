@@ -65,7 +65,8 @@ That's it!
 Sending the Email
 -----------------
 
-Send an email to [Dan Bornstein](mailto:danfuzz@obvious.com),
+Send an email to Obvious's official Open Sourceror
+at [open-source@obvious.com](mailto:open-source@obvious.com),
 Obvious's official Open Sourceror, with the subject "OCLA" and
 the following body:
 
