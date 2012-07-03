@@ -10,9 +10,8 @@ with the following content:
 ```
 [date]
 
-I hereby agree to the terms of the Obvious Contributors License
-Agreement, version 1.0, with MD5 checksum
-fbe613f727e76c93e4a5967536c87fbe.
+I hereby agree to the terms of the attached Obvious Contributors
+License.
 
 I furthermore declare that I am free and able to make this agreement
 and sign this declaration.
@@ -39,7 +38,10 @@ Replace the bracketed text as follows:
   contacted.
 * `[your phone number]` with a phone number at which you can be contacted.
 
-Send the letter to:
+Print out a copy of [the OCLA](ocla-1.0.md), sign and date that copy,
+and attach it to the page described above.
+
+Send it all to:
 
     The Obvious Corporation
     Attention: Open Sourceror
