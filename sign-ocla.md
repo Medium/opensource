@@ -67,8 +67,7 @@ Sending the Email
 
 Send an email to Obvious's official Open Sourceror
 at [open-source@obvious.com](mailto:open-source@obvious.com),
-Obvious's official Open Sourceror, with the subject "OCLA" and
-the following body:
+with the subject "OCLA" and the following body:
 
 ```
 I submitted a pull request to indicate agreement to the terms
