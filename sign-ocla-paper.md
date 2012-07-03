@@ -18,6 +18,7 @@ I furthermore declare that I am free and able to make this agreement
 and sign this declaration.
 
 Signed,
+[your signature]
 
 [your name]
 https://github.com/[your github userid]
@@ -29,7 +30,8 @@ https://github.com/[your github userid]
 Replace the bracketed text as follows:
 
 * `[date]` with today's date, in the unambiguous numeric form `YYYY-MM-DD`.
-* `[your name]` with your name.
+* `[your signature]` with your signature.
+* `[your name]` with your name (printed).
 * `[your github userid]` with your GitHub userid.
 * `[your email address]` with an email address at which you can be
   contacted.
