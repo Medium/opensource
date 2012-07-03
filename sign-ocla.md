@@ -70,6 +70,11 @@ Obvious's official Open Sourceror, with the subject "OCLA" and
 the following body:
 
 ```
+I submitted a pull request to indicate agreement to the terms
+of the Obvious Contributors License Agreement.
+
+Signed,
+
 [your name]
 [your github userid]
 [your address]
