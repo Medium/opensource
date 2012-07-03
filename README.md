@@ -107,10 +107,10 @@ libraries in applications.
 
 These are build-time tools packaged as [Node](http://nodejs.org/) modules.
 
-* [Soynode](https://github.com/Obvious/soynode) &mdash; Integration of
-  the Soy template system (part of Google Closure).
 * [Plovr](https://github.com/Obvious/plovr) &mdash; Integration of
   the Plovr JavaScript build tool (part of Google Closure).
+* [Soynode](https://github.com/Obvious/soynode) &mdash; Integration of
+  the Soy template system (part of Google Closure).
 
 ### Other
 
