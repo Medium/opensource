@@ -85,6 +85,8 @@ libraries in applications.
   Asynchronous dependency loading "the cool way".
 * [Bidar](https://github.com/Obvious/bidar) &mdash; Binary serialization
   and object iteration.
+* [Composers](https://github.com/Obvious/composers) &mdash; Asynchronous
+  programming framework.
 * [Daemon Sauce](https://github.com/Obvious/daemonsauce) &mdash; Making
   it easy to be a proper *nix daemon.
 * [Leb](https://github.com/Obvious/leb) &mdash; Utilities for the LEB128
@@ -97,8 +99,6 @@ libraries in applications.
   utilities.
 * [Populator](https://github.com/Obvious/populator) &mdash;
   Asynchronous object populator.
-* [Producers](https://github.com/Obvious/producer) &mdash; Producers pattern
-  implementation.
 * [Ursa](https://github.com/Obvious/ursa) &mdash; RSA public/private key
   crypto.
 * [Typ](https://github.com/Obvious/typ) &mdash; Type predicates and
