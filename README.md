@@ -17,10 +17,10 @@ On this page:
 
 Other pages:
 
-* [Sign the OCLA](sign-ocla.md)
-* [Contributors](contributors)
-* [Obvious Contributor License Agreement 1.0](ocla-1.0.md)
-* [Apache License 2.0](apache-license-2.0.md)
+* [Sign the OCLA](https://github.com/Obvious/open-source/blob/master/sign-ocla.md)
+* [Contributors](https://github.com/Obvious/open-source/blob/master/contributors)
+* [Obvious Contributor License Agreement 1.0](https://github.com/Obvious/open-source/blob/master/ocla-1.0.md)
+* [Apache License 2.0](https://github.com/Obvious/open-source/blob/master/apache-license-2.0.md)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
