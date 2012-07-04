@@ -50,7 +50,8 @@ conscience and with only the friction that results from the usual
 technical back-and-forth of a vibrant open source project.
 
 To get started with this process, visit the
-[Sign the OCLA](sign-ocla.md) page.
+[Sign the OCLA](https://github.com/Obvious/open-source/blob/master/sign-ocla.md)
+page.
 
 For reference, the standard open source license used by The Obvious
 Corporation is the [Apache License 2.0](apache-license-2.0.md) with
