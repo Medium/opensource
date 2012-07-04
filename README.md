@@ -55,7 +55,7 @@ page.
 
 For reference, the standard open source license used by The Obvious
 Corporation is the
-[Apache License 2.0](https://github.com/Obvious/open-source/blob/masterapache-license-2.0.md)
+[Apache License 2.0](https://github.com/Obvious/open-source/blob/master/apache-license-2.0.md)
 with a small clarifying preamble.
 
 If you have any questions about any of this, please raise them by
