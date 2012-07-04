@@ -42,7 +42,9 @@ two things:
 
 The reason we do this is to ensure, to the extent possible,
 that we don't "taint" the projects with contributions that turn
-out to be improper.
+out to be improper. If you want a longer explanation, then you
+can check out the ["rationale"
+section](https://github.com/Obvious/open-source/blob/master/sign-ocla.md#rationale).
 
 Once you sign the Obvious Contributor License Agreement (the "OCLA"),
 we will then be able to merge your contributions with a clear
