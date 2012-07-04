@@ -104,7 +104,7 @@ The point of the OCLA signing process is to have a credible record of
 a developer stating that they really intend to contribute to an open
 source project. Technically speaking, the thing we are aiming for is a
 *non-repudiable* statement from a contributor, that is, a statement
-that would be a blatantl falsehood to later deny.
+that would be a blatant falsehood to later deny.
 
 This is an important step in assuring that an open source project
 &mdash; any open source project &mdash; truly is open source. More
