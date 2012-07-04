@@ -140,7 +140,7 @@ traditional email.
 
 The upshot is that filing a pull request containing a statement of
 agreement to the OCLA, along with the supplementary email, is close
-enough to having submitted a physical document saying the same
+enough to having submitted a signed physical document saying the same
 things. That is, this tactic is a workable solution to the problem. And
 since fits in naturally with how actual contributions get made, what
 we do here ends up being the least-intrusive way of getting the
