@@ -54,8 +54,9 @@ To get started with this process, visit the
 page.
 
 For reference, the standard open source license used by The Obvious
-Corporation is the [Apache License 2.0](apache-license-2.0.md) with
-a small clarifying preamble.
+Corporation is the
+[Apache License 2.0](https://github.com/Obvious/open-source/blob/masterapache-license-2.0.md)
+with a small clarifying preamble.
 
 If you have any questions about any of this, please raise them by
 filing a bug on this project, since there's a good chance that if you
