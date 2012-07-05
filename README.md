@@ -41,10 +41,11 @@ two things:
 
 * You are legally able to license your contributions as stated.
 
-The reason we do this is to ensure, to the extent possible,
-that we don't "taint" the projects with contributions that turn
-out to be improper. If you want a longer explanation, then you
-can check out the [OCLA Rationale
+The reason we do this is to ensure, to the extent possible, that we
+don't "taint" the projects with contributions that turn out to be
+improper. This protects everyone who wants to use the projects,
+including *you*! If you want a longer explanation, then you can check
+out the [OCLA Rationale
 page](https://github.com/Obvious/open-source/blob/master/ocla-rationale.md).
 
 Once you sign the Obvious Contributor License Agreement (the "OCLA"),
