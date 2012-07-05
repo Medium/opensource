@@ -18,6 +18,7 @@ On this page:
 Other pages:
 
 * [Sign the OCLA](https://github.com/Obvious/open-source/blob/master/sign-ocla.md)
+* [OCLA Rationale](https://github.com/Obvious/open-source/blob/master/ocla-rationale.md)
 * [Contributors](https://github.com/Obvious/open-source/blob/master/contributors)
 * [Obvious Contributor License Agreement 1.0](https://github.com/Obvious/open-source/blob/master/ocla-1.0.md)
 * [Apache License 2.0](https://github.com/Obvious/open-source/blob/master/apache-license-2.0.md)
@@ -43,8 +44,8 @@ two things:
 The reason we do this is to ensure, to the extent possible,
 that we don't "taint" the projects with contributions that turn
 out to be improper. If you want a longer explanation, then you
-can check out the ["rationale"
-section](https://github.com/Obvious/open-source/blob/master/sign-ocla.md#rationale).
+can check out the [OCLA Rationale
+page](https://github.com/Obvious/open-source/blob/master/ocla-rationale.md).
 
 Once you sign the Obvious Contributor License Agreement (the "OCLA"),
 we will then be able to merge your contributions with a clear
