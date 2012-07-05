@@ -31,7 +31,7 @@ Note to External Contributors
 Hello, External Person!
 
 We at Obvious are eager to work with you. For small changes &mdash;
-little bugfixes, correcting typos, and the like &mdash;, please just
+little bugfixes, correcting typos, and the like &mdash; please just
 submit pull requests to any of our projects. For larger changes,
 though, we have to ask you to jump through a little hoop.
 
