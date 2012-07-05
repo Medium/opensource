@@ -30,11 +30,14 @@ Note to External Contributors
 
 Hello, External Person!
 
-We at Obvious are eager to work with you. In order to do so, though,
-we have to ask you to jump through a little hoop.
+We at Obvious are eager to work with you. For small changes &mdash;
+little bugfixes, correcting typos, and the like &mdash;, please just
+submit pull requests to any of our projects. For larger changes,
+though, we have to ask you to jump through a little hoop.
 
-What you have to do is electronically sign a statement that indicates
-two things:
+In particular, in order for us to accept any major patches from you,
+you will have to electronically sign a statement that indicates two
+things:
 
 * You are willingly licensing your contributions under the terms of
   the open source license of the project that you're contributing to.
@@ -42,8 +45,8 @@ two things:
 * You are legally able to license your contributions as stated.
 
 The reason we do this is to ensure, to the extent possible, that we
-don't "taint" the projects with contributions that turn out to be
-improper. This protects everyone who wants to use the projects,
+don't "taint" the projects we manage with contributions that turn out
+to be improper. This protects everyone who wants to use the projects,
 including *you*! If you want a longer explanation, then you can check
 out the [OCLA Rationale
 page](https://github.com/Obvious/open-source/blob/master/ocla-rationale.md).
