@@ -42,6 +42,10 @@ processes:
 * [10Gen](http://www.10gen.com/) (MongoDB):
   <http://www.10gen.com/contributor>
 
+In addition, there is unsurprisingly a
+[Wikipedia page about CLAs](http://en.wikipedia.org/wiki/Contributor_License_Agreement). It's brief but has some good information and useful links.
+
+
 Why do it this way?
 -------------------
 
