@@ -96,6 +96,8 @@ libraries in applications.
   programming framework.
 * [Daemon Sauce](https://github.com/Obvious/daemonsauce) &mdash; Making
   it easy to be a proper *nix daemon.
+* [Falkor](https://github.com/Obvious/falkor) &mdash; HTTP Level Functional
+  Testing Library.
 * [Leb](https://github.com/Obvious/leb) &mdash; Utilities for the LEB128
   number representation.
 * [Matador](https://github.com/Obvious/matador) &mdash; Application
@@ -117,6 +119,8 @@ libraries in applications.
 
 These are build-time tools packaged as [Node](http://nodejs.org/) modules.
 
+* [PhantomJS](https://github.com/Obvious/phantomjs) &mdash; NPM wrapper for
+  grabbing the right PhantomJS binary.
 * [Plovr](https://github.com/Obvious/plovr) &mdash; Integration of
   the Plovr JavaScript build tool (a packaging of the Google Closure compiler).
 * [Soynode](https://github.com/Obvious/soynode) &mdash; Integration of
