@@ -1,11 +1,11 @@
 # Closure Usage #
 
 We use [Plovr](http://plovr.com/docs.html) to compile and compress our client-side JavaScript.  It
-comes bundled with a copy of the (Closure Library)[closure-library.googlecode.com] which we can
+comes bundled with a copy of the (Closure Library)[http://closure-library.googlecode.com] which we can
 `goog.require` seemlessly from anywhere.
 
-Even though we can include any piece of Closure in Medium, we should not, since some of the classes
-are very heavy, primarily due to their flexibility and to support for older browsers (e.g. IE6).
+Even though we can easily load any piece of Closure from our projects, we should not, since some of the classes
+are very heavy, primarily due to their flexibility and their support for older browsers (e.g. IE6).
 
 As well as anything in [base.js](http://closure-library.googlecode.com/svn/docs/closure_goog_base.js.html)
 the following classes are approved:
