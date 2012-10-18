@@ -1,7 +1,7 @@
 # Closure Usage #
 
 We use [Plovr](http://plovr.com/docs.html) to compile and compress our client-side JavaScript.  It
-comes bundled with a copy of the (Closure Library)[http://closure-library.googlecode.com] which we can
+comes bundled with a copy of the [Closure Library](http://closure-library.googlecode.com) which we can
 `goog.require` seemlessly from anywhere.
 
 Even though we can easily load any piece of Closure from our projects, we should not, since some of the classes
@@ -27,7 +27,7 @@ the following classes are approved:
   * `goog.userAgent`
   * `goog.testing`
 
-New classes should be approved on a case by case basis
+New classes should be approved on a case by case basis.
 
 ## goog.Disposable ##
 
