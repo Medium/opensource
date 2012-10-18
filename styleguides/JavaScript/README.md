@@ -8,3 +8,5 @@ This styleguide may be reused or repurposed for your own projects under the Obvi
   * [Language Rules](./JavaScript/language-rules.md)
   * [JavaScript Inheritance](./JavaScript/inheritance.md)
   * [Closure Library](./JavaScript/closure-library.md)
+
+**Note:** With much thanks and gratitude, portions of this style guide have been borrowed from the [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml).
