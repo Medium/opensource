@@ -89,7 +89,7 @@ These are [Node](http://nodejs.org/) modules that can be used pretty directly as
 libraries in applications.
 
 * [Async Builder](https://github.com/Obvious/asyncBuilder) &mdash;
-  Asynchronous dependency loading "the cool way".
+  Asynchronous dependency injection for node.js.
 * [Bidar](https://github.com/Obvious/bidar) &mdash; Binary serialization
   and object iteration.
 * [Composers](https://github.com/Obvious/composers) &mdash; Asynchronous
@@ -98,6 +98,7 @@ libraries in applications.
   it easy to be a proper *nix daemon.
 * [Falkor](https://github.com/Obvious/falkor) &mdash; HTTP Level Functional
   Testing Library.
+* [Kew](https://github.com/Obvious/kew) &mdash; A lightweight promise library optimized for node.js
 * [Leb](https://github.com/Obvious/leb) &mdash; Utilities for the LEB128
   number representation.
 * [Matador](https://github.com/Obvious/matador) &mdash; Application
