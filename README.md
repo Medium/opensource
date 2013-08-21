@@ -96,6 +96,7 @@ libraries in applications.
   programming framework.
 * [Daemon Sauce](https://github.com/Obvious/daemonsauce) &mdash; Making
   it easy to be a proper *nix daemon.
+* [Dynamite](https://github.com/Obvious/dynamite) &mdash; A promise-based DynamoDB client.
 * [Falkor](https://github.com/Obvious/falkor) &mdash; HTTP Level Functional
   Testing Library.
 * [Kew](https://github.com/Obvious/kew) &mdash; A lightweight promise library optimized for node.js
