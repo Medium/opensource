@@ -1,17 +1,15 @@
-The Obvious Contributors License Agreement
+The Contributors License Agreement
 ==========================================
 
-Version 1.0
+Version 2.0
 -----------
 
 ### Preface
 
-This Agreement is between You, the Users, the Contributors, and The
-Obvious Corporation. The intent of the Agreement is to clarify your
-responsibilities as a Contributor.
+This Agreement is between You, the Users, the Contributors, and A Medium Corporation. The intent of the Agreement is to clarify your responsibilities as a Contributor.
 
 The Agreement is meant to protect You, the Users, the Contributors,
-and The Obvious Corporation from the malicious misdeeds of others.
+and A Medium Corporation from the malicious misdeeds of others.
 The Agreement is *not* intended to restrict how You use Your own
 Contributions.
 
@@ -27,11 +25,10 @@ and the singular shall include the plural.
 
 2. "You" / "Your" &mdash; The individual signing this Agreement.
 
-3. "The Obvious Corporation" &mdash; The company which manages the
-   Projects. The company's website is at <http://obvious.com/>.
+3. "A Medium Corporation" &mdash; The company which manages the
+   Projects. The company's website is at <http://medium.com/>.
 
-4. "Project" &mdash; Open source projects being managed by The
-   Obvious Corporation. The Projects may all be found at
+4. "Project" &mdash; Open source projects being managed by A Medium Corporation. The Projects may all be found at
    <https://github.com/Obvious> with an overview at
    <https://github.com/Obvious/open-source>.
 
@@ -64,7 +61,7 @@ When You provide a Contribution to a Project:
 * You license that Contribution under the terms of the
   license of that Project. More specifically, You grant an irrevocable
   license for Your Contribution to the Users, the Contributors, and
-  The Obvious Corporation.
+  A Medium Corporation.
 
 * You assert that You have the authority and are able to license Your
   Contribution under the license of that Project.
@@ -81,5 +78,5 @@ Furthermore:
 
 * If You become aware of a problem with any of Your Contributions or
   with the fact that You have signed this Agreement, then You agree to
-  inform The Obvious Corporation about the problem, without any undue
+  inform A Medium Corporation about the problem, without any undue
   delay.

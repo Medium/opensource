@@ -1,9 +1,9 @@
-Open Source Efforts at The Obvious Corporation
+Open Source Efforts at A Medium Corporation
 ==============================================
 
 This repository serves as the umbrella project to represent the
-various open source efforts at The Obvious Corporation
-<http://obvious.com>. Come here to get an overview of the various
+various open source efforts at A Medium Corporation
+<http://medium.com>. Come here to get an overview of the various
 projects, to learn how to contribute to them, and to sign up as a
 contributor.
 
@@ -17,11 +17,11 @@ On this page:
 
 Other pages:
 
-* [Sign the OCLA](https://github.com/Obvious/open-source/blob/master/sign-ocla.md)
-* [OCLA Rationale](https://github.com/Obvious/open-source/blob/master/ocla-rationale.md)
+* [Sign the CLA](https://github.com/Obvious/open-source/blob/master/sign-cla.md)
+* [CLA Rationale](https://github.com/Obvious/open-source/blob/master/cla-rationale.md)
 * [Contributors](https://github.com/Obvious/open-source/blob/master/contributors)
-* [Obvious Contributor License Agreement 1.0](https://github.com/Obvious/open-source/blob/master/ocla-1.0.md)
-* [Apache License 2.0](https://github.com/Obvious/open-source/blob/master/apache-license-2.0.md)
+* [Contributor License Agreement 2.0](https://github.com/Obvious/open-source/blob/master/cla-2.0.md)
+* [MIT License](https://github.com/Obvious/open-source/blob/master/mit-license.md)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -30,7 +30,7 @@ Note to External Contributors
 
 Hello, External Person!
 
-We at Obvious are eager to work with you. For small changes &mdash;
+We at Medium are eager to work with you. For small changes &mdash;
 little bugfixes, correcting typos, and the like &mdash; please just
 submit pull requests to any of our projects. For larger changes,
 though, we have to ask you to jump through a little hoop.
@@ -48,35 +48,36 @@ The reason we do this is to ensure, to the extent possible, that we
 don't "taint" the projects we manage with contributions that turn out
 to be improper. This protects everyone who wants to use the projects,
 including *you*! If you want a longer explanation, then you can check
-out the [OCLA Rationale
-page](https://github.com/Obvious/open-source/blob/master/ocla-rationale.md).
+out the [CLA Rationale
+page](https://github.com/Obvious/open-source/blob/master/cla-rationale.md).
 
-Once you sign the Obvious Contributor License Agreement (the "OCLA"),
+Once you sign the Contributor License Agreement (the "CLA"),
 we will then be able to merge your contributions with a clear
 conscience and with only the friction that results from the usual
 technical back-and-forth of a vibrant open source project.
 
 To get started with this process, visit the
-[Sign the OCLA](https://github.com/Obvious/open-source/blob/master/sign-ocla.md)
+[Sign the CLA](https://github.com/Obvious/open-source/blob/master/sign-cla.md)
 page.
 
-For reference, the standard open source license used by The Obvious
+For reference, the standard open source license used by A Medium
 Corporation is the
-[Apache License 2.0](https://github.com/Obvious/open-source/blob/master/apache-license-2.0.md)
-with a small clarifying preamble.
+[MIT License](https://github.com/Obvious/open-source/blob/master/mit-license.md)
+with a small clarifying preamble. Some projects created before March 6, 2014 use
+the Apache 2.0 License (https://github.com/Obvious/open-source/blob/master/apache-license-2.0.md)
 
 If you have any questions about any of this, please raise them by
 filing a bug on this project, since there's a good chance that if you
 have a question then someone else has the same question too. If it is
-really and truly a private matter, then you can mail Obvious's
+really and truly a private matter, then you can mail Medium's
 official Open Sourceror privately, at
-[open-source@obvious.com](mailto:open-source@obvious.com).
+[open-source@medium.com](mailto:open-source@medium.com).
 
 Thanks, and happy hacking!
 
 Cheers,
 
-Your friends at The Obvious Corporation
+Your friends at A Medium Corporation
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
