@@ -1,10 +1,10 @@
-OCLA Rationale
+CLA Rationale
 ==============
 
 Why do this at all?
 -------------------
 
-The point of the OCLA signing process is to have a credible record of
+The point of the CLA signing process is to have a credible record of
 a developer stating that they really intend to contribute to an open
 source project. Technically speaking, the thing we are aiming for is a
 *non-repudiable* statement from a contributor, that is, a statement
@@ -18,7 +18,7 @@ by claiming they weren't really contributing under the project's open
 source license. For some projects "trouble" has historically come, for
 example, in the form of patent lawsuits.
 
-The Obvious Corporation wants to do our part to guard against this
+A Medium Corporation wants to do our part to guard against this
 potential trouble, and we believe so should you. We aren't innovating
 here by asking you to sign an agreement, but we *are* trying to
 innovate by making the agreement and process nearly-transparent,
@@ -58,16 +58,16 @@ We no longer live in that time.
 
 One wonderful thing about the world we live in today is that we can
 achieve the necessary non-reputiability without having to have a
-physical document. In the case of the OCLA, we bootstrap this ability
+physical document. In the case of the CLA, we bootstrap this ability
 off of the infrastructure provided by GitHub: More specifically, we
 treat GitHub as a neutral third party to witness the transactions
-between a would-be contributor and The Obvious Corporation. GitHub
+between a would-be contributor and A Medium Corporation. GitHub
 ends up acting sort of like a notary, in that its records of the
 actions &mdash; such as in particular the pull requests &mdash; of
 people using it can be taken as authoritative and unbiased.
 
 So, when a contributor forks this project, commits a change indicating
-agreement to the OCLA, and files a pull request back with this project,
+agreement to the CLA, and files a pull request back with this project,
 GitHub knows that all that happened, knows when it happened, and knows
 the identity of the entity taking all that action. Should there ever
 be a dispute about whether any of that took place, it's not just
@@ -85,7 +85,7 @@ traditional email. We promise never to use this information for
 any purpose other than resolving authorship disputes.
 
 The upshot is that filing a pull request containing a statement of
-agreement to the OCLA, along with the supplementary email, is close
+agreement to the MCLA, along with the supplementary email, is close
 enough to having submitted a signed physical document saying the same
 things. That is, this tactic is a workable solution to the problem. And
 since fits in naturally with how actual contributions get made, what

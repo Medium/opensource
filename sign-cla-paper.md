@@ -1,17 +1,17 @@
-Sign the OCLA: Dead Tree Edition
+Sign the CLA: Dead Tree Edition
 ================================
 
-Even though we at The Obvious Corporation would love to leave the
+Even though we at A Medium Corporation would love to leave the
 paper world behind, various jurisdictions require that we also accept
 physically signed documents. If you wish to take advantage of this
-when signing the OCLA, then all you need to do is mail us a document
+when signing the CLA, then all you need to do is mail us a document
 with the following content:
 
 ```
 [date]
 
-I hereby agree to the terms of the attached Obvious Contributors
-License.
+I hereby agree to the terms of the attached Contributors
+License Agreement.
 
 I furthermore declare that I am free and able to make this agreement
 and sign this declaration.
@@ -38,12 +38,12 @@ Replace the bracketed text as follows:
   contacted.
 * `[your phone number]` with a phone number at which you can be contacted.
 
-Print out a copy of [the OCLA](ocla-1.0.md), sign and date that copy,
+Print out a copy of [the CLA](cla-2.0.md), sign and date that copy,
 and attach it to the page described above.
 
 Send it all to:
 
-    The Obvious Corporation
+    A Medium Corporation
     Attention: Open Sourceror
-    800 Market St. Suite 800
+    760 Market Street Suite 900
     San Francisco CA 94102
