@@ -18,9 +18,9 @@ For an explanation about why we ask you to do this, see the
 
 4. Email the Medium Open Sourceror, as [outlined below](#sending-the-email).
 
-5. Wait for a Medium team member to merge your pull request.
-
-6. Contribute!
+5. Wait for a Medium team member to merge your pull request. You may start
+   opening pull requests for the project you're contributing to but we will
+   only be able to merge your contributions after your signed CLA is merged.
 
 If you wish to, you may also file the CLA in paper form. Please
 see the instructions on [the paper CLA page](sign-cla-paper.md)
