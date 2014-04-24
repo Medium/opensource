@@ -47,7 +47,7 @@ Put the following in the file:
 
 I hereby agree to the terms of the Contributors License
 Agreement, version 2.0, with MD5 checksum
-063446fb691881581971b90f601fb9a5.
+0962bd43bb8849553d91650a78cb2924.
 
 I furthermore declare that I am authorized and able to make this
 agreement and sign this declaration.
@@ -63,6 +63,15 @@ Replace the bracketed text as follows:
 * `[date]` with today's date, in the unambiguous numeric form `YYYY-MM-DD`.
 * `[your name]` with your name.
 * `[your github userid]` with your GitHub userid.
+
+You can confirm the MD5 checksum of the CLA by running the md5 program over `cla-2.0.md`:
+
+```
+md5 cla-2.0.md
+MD5 (cla-2.0.md) = 0962bd43bb8849553d91650a78cb2924
+```
+
+If the output is different from above, do not sign the CLA and let us know.
 
 That's it!
 
