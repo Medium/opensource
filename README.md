@@ -59,7 +59,7 @@ For reference, the standard open source license used by A Medium
 Corporation is the
 [MIT License](https://github.com/Medium/opensource/blob/master/mit-license.md)
 with a small clarifying preamble. Some projects created before March 6, 2014 use
-the Apache 2.0 License (https://github.com/Medium/opensource/blob/master/apache-license-2.0.md)
+the [Apache 2.0 License](https://github.com/Medium/opensource/blob/master/apache-license-2.0.md)
 
 In addition to our CLA, we have a policy where we avoid owning code that we don’t intend
 to maintain through use. If your patch is not in-line with our intended use case
