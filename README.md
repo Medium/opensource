@@ -2,10 +2,9 @@ Open Source at Medium
 ==============================================
 
 This repository serves as the umbrella project to represent the
-various open source efforts at A Medium Corporation
-<http://medium.com>. Come here to get an overview of the various
-projects, to learn how to contribute to them, and to sign up as a
-contributor.
+various open source efforts at [A Medium Corporation](https://medium.com).
+Come here to get an overview of the various projects, to learn how to
+contribute to them, and to sign up as a contributor.
 
 Table Of Contents
 -----------------
