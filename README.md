@@ -22,6 +22,10 @@ Other pages:
 * [Contributor License Agreement 2.0](https://github.com/Medium/opensource/blob/master/cla-2.0.md)
 * [MIT License](https://github.com/Medium/opensource/blob/master/mit-license.md)
 
+Style guides:
+
+* [JavaScript](https://github.com/Medium/opensource/blob/master/styleguides/JavaScript.md)
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 Note to External Contributors
