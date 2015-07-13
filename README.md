@@ -94,8 +94,6 @@ List of Projects
 These are [Node](http://nodejs.org/) modules that can be used pretty directly as
 libraries in applications.
 
-* [Bidar](https://github.com/Medium/bidar)&#8201;&mdash;&#8201;Binary serialization
-  and object iteration.
 * [Daemon Sauce](https://github.com/Medium/daemonsauce)&#8201;&mdash;&#8201;Making
   it easy to be a proper *nix daemon.
 * [Dynamite](https://github.com/Medium/dynamite)&#8201;&mdash;&#8201;A promise-based DynamoDB client.
