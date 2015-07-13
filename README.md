@@ -100,8 +100,6 @@ libraries in applications.
 * [Falkor](https://github.com/Medium/falkor)&#8201;&mdash;&#8201;HTTP Level Functional
   Testing Library.
 * [Kew](https://github.com/Medium/kew)&#8201;&mdash;&#8201;A lightweight promise library optimized for node.js
-* [Leb](https://github.com/Medium/leb)&#8201;&mdash;&#8201;Utilities for the LEB128
-  number representation.
 * [Matador](https://github.com/Medium/matador)&#8201;&mdash;&#8201;Application
   framework.
 * [Oid](https://github.com/Medium/oid)&#8201;&mdash;&#8201;Utilities for object
