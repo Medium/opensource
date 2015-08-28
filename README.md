@@ -118,8 +118,6 @@ These are build-time tools packaged as [Node](http://nodejs.org/) modules.
 
 * [PhantomJS](https://github.com/Medium/phantomjs)&#8201;&mdash;&#8201;NPM wrapper for
   grabbing the right PhantomJS binary.
-* [Plovr](https://github.com/Medium/plovr)&#8201;&mdash;&#8201;Integration of
-  the Plovr JavaScript build tool (a packaging of the Google Closure compiler).
 * [Soynode](https://github.com/Medium/soynode)&#8201;&mdash;&#8201;Integration of
   the Soy template system (part of Google Closure).
 
