@@ -73,4 +73,4 @@ var obj = {
 ### Types ###
 
 For client code, we use Google Closure Compiler for type checks. Annotate your functions and properties
-accordingly. For more information, seeSee the [JS Compiler Docs](https://developers.google.com/closure/compiler/docs/js-for-compiler).
+accordingly. For more information, see the [JS Compiler Docs](https://developers.google.com/closure/compiler/docs/js-for-compiler).
