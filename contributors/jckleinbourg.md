@@ -9,5 +9,5 @@ agreement and sign this declaration.
 
 Signed,
 
-Jean-Chrsistophe Kleinbourg
+Jean-Christophe Kleinbourg
 https://github.com/jckleinbourg
