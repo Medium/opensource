@@ -80,3 +80,5 @@ Furthermore:
   with the fact that You have signed this Agreement, then You agree to
   inform A Medium Corporation about the problem, without any undue
   delay.
+
+To the extent possible under law, Medium has dedicated all copyright and related and neighboring rights to the text of this license to the public domain worldwide. This software is distributed without any warranty. See <http://creativecommons.org/publicdomain/zero/1.0/>.
