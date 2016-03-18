@@ -33,12 +33,7 @@ Note to External Contributors
 
 Hello, External Person!
 
-We at Medium are eager to work with you. For small changes&#8201;&mdash;&#8201;little
-bugfixes, correcting typos, and the like&#8201;&mdash;&#8201;please just submit pull
-requests to any of our projects. For larger changes, though, we have to ask you to jump
-through a little hoop.
-
-In particular, in order for us to accept any major patches from you, you will have to
+We at Medium are eager to work with you. In order for us to accept patches from you, you will have to
 electronically sign a statement that indicates two things:
 
 * You are willingly licensing your contributions under the terms of
