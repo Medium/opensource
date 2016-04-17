@@ -59,10 +59,10 @@ To get started with this process, visit the
 [Sign the CLA](https://github.com/Medium/opensource/blob/master/sign-cla.md)
 page.
 
-For reference, the standard open source license used by A Medium
-Corporation is the
+For reference, projects manageed by A Medium
+Corporation include some using
 [MIT License](https://github.com/Medium/opensource/blob/master/mit-license.md)
-with a small clarifying preamble. Some projects created before March 6, 2014 use
+with a small clarifying preamble and some using
 the [Apache 2.0 License](https://github.com/Medium/opensource/blob/master/apache-license-2.0.md).
 
 In addition to our CLA, we have a policy where we avoid owning code that we don’t intend
@@ -118,8 +118,6 @@ These are build-time tools packaged as [Node](http://nodejs.org/) modules.
 
 * [PhantomJS](https://github.com/Medium/phantomjs)&#8201;&mdash;&#8201;NPM wrapper for
   grabbing the right PhantomJS binary.
-* [Plovr](https://github.com/Medium/plovr)&#8201;&mdash;&#8201;Integration of
-  the Plovr JavaScript build tool (a packaging of the Google Closure compiler).
 * [Soynode](https://github.com/Medium/soynode)&#8201;&mdash;&#8201;Integration of
   the Soy template system (part of Google Closure).
 
