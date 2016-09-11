@@ -33,14 +33,14 @@ processes:
   <http://www.antlr.org/doc/ANTLR-contributor-agreement.pdf>
 * [Apache](http://www.apache.org/): <http://www.apache.org/licenses/icla.txt>
 * [GNU](http://www.gnu.org/):
-  <http://www.gnu.org/prep/maintain/html_node/Copyright-Papers.html>
+  <http://www.gnu.org/prep/standards/html_node/Contributions.html>
 * [Google](http://code.google.com/) (Android, Chrome / ChromeOS, and more):
-  <http://code.google.com/legal/individual-cla-v1.0.html>
+  <https://cla.developers.google.com/about/google-individual?csw=1>
 * [Linux kernel](http://kernel.org/):
   <http://elinux.org/Developer_Certificate_Of_Origin>
 * [Node](http://nodejs.org/): <http://nodejs.org/cla.html>
 * [10Gen](http://www.10gen.com/) (MongoDB):
-  <http://www.10gen.com/contributor>
+  <https://www.mongodb.com/legal/contributor-agreement>
 
 In addition, there is unsurprisingly a
 [Wikipedia page about CLAs](http://en.wikipedia.org/wiki/Contributor_License_Agreement). It's brief but has some good information and useful links.
