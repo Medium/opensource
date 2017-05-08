@@ -31,7 +31,7 @@ obv.sloth.sleep = function() {
 }
 ```
 
-Filenames should should match the namespace of class that they define, e.g. `obv.foo.Class` should
+Filenames should match the namespace of class that they define, e.g. `obv.foo.Class` should
 be in `/foo/Class.js` and `obv.bar.baz` should be in `/bar/baz.js`. Filenames should end in .js, and
 should contain no punctuation except for - or _. Prefer - to _
 
@@ -73,4 +73,4 @@ var obj = {
 ### Types ###
 
 For client code, we use Google Closure Compiler for type checks. Annotate your functions and properties
-accordingly. For more information, seeSee the [JS Compiler Docs](https://developers.google.com/closure/compiler/docs/js-for-compiler).
+accordingly. For more information, see the [JS Compiler Docs](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler).
