@@ -1,11 +1,10 @@
-Open Source Efforts at The Obvious Corporation
+Open Source at Medium
 ==============================================
 
 This repository serves as the umbrella project to represent the
-various open source efforts at The Obvious Corporation
-<http://obvious.com>. Come here to get an overview of the various
-projects, to learn how to contribute to them, and to sign up as a
-contributor.
+various open source efforts at [A&nbsp;Medium&nbsp;Corporation](https://medium.com).
+Come here to get an overview of the various projects, to learn how to
+contribute to them, and to sign up as a contributor.
 
 Table Of Contents
 -----------------
@@ -17,11 +16,15 @@ On this page:
 
 Other pages:
 
-* [Sign the OCLA](https://github.com/Obvious/open-source/blob/master/sign-ocla.md)
-* [OCLA Rationale](https://github.com/Obvious/open-source/blob/master/ocla-rationale.md)
-* [Contributors](https://github.com/Obvious/open-source/blob/master/contributors)
-* [Obvious Contributor License Agreement 1.0](https://github.com/Obvious/open-source/blob/master/ocla-1.0.md)
-* [Apache License 2.0](https://github.com/Obvious/open-source/blob/master/apache-license-2.0.md)
+* [Sign the CLA](https://github.com/Medium/opensource/blob/master/sign-cla.md)
+* [CLA Rationale](https://github.com/Medium/opensource/blob/master/cla-rationale.md)
+* [Contributors](https://github.com/Medium/opensource/blob/master/contributors)
+* [Contributor License Agreement 2.0](https://github.com/Medium/opensource/blob/master/cla-2.0.md)
+* [MIT License](https://github.com/Medium/opensource/blob/master/mit-license.md)
+
+Style guides:
+
+* [JavaScript](https://github.com/Medium/opensource/blob/master/styleguides/JavaScript.md)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -30,53 +33,56 @@ Note to External Contributors
 
 Hello, External Person!
 
-We at Obvious are eager to work with you. For small changes &mdash;
-little bugfixes, correcting typos, and the like &mdash; please just
-submit pull requests to any of our projects. For larger changes,
-though, we have to ask you to jump through a little hoop.
+We at Medium are eager to work with you. For small changes&#8201;&mdash;&#8201;little
+bugfixes, correcting typos, and the like&#8201;&mdash;&#8201;please just submit pull
+requests to any of our projects. For larger changes, though, we have to ask you to jump
+through a little hoop.
 
-In particular, in order for us to accept any major patches from you,
-you will have to electronically sign a statement that indicates two
-things:
+In particular, in order for us to accept any major patches from you, you will have to
+electronically sign a statement that indicates two things:
 
 * You are willingly licensing your contributions under the terms of
-  the open source license of the project that you're contributing to.
+  the open source license of the project that you’re contributing to.
 
 * You are legally able to license your contributions as stated.
 
-The reason we do this is to ensure, to the extent possible, that we
-don't "taint" the projects we manage with contributions that turn out
-to be improper. This protects everyone who wants to use the projects,
-including *you*! If you want a longer explanation, then you can check
-out the [OCLA Rationale
-page](https://github.com/Obvious/open-source/blob/master/ocla-rationale.md).
+The reason we do this is to ensure, to the extent possible, that we don’t “taint”
+the projects we manage with contributions that turn out to be improper. This protects
+everyone who wants to use the projects, including *you*! If you want a longer explanation,
+then you can check out the [CLA Rationale page](https://github.com/Medium/opensource/blob/master/cla-rationale.md).
 
-Once you sign the Obvious Contributor License Agreement (the "OCLA"),
-we will then be able to merge your contributions with a clear
-conscience and with only the friction that results from the usual
-technical back-and-forth of a vibrant open source project.
+Once you sign the Contributor License Agreement (the “CLA”), we will then be able to
+merge your contributions with a clear conscience and with only the friction that results
+from the usual technical back-and-forth of a vibrant open source project.
 
 To get started with this process, visit the
-[Sign the OCLA](https://github.com/Obvious/open-source/blob/master/sign-ocla.md)
+[Sign the CLA](https://github.com/Medium/opensource/blob/master/sign-cla.md)
 page.
 
-For reference, the standard open source license used by The Obvious
-Corporation is the
-[Apache License 2.0](https://github.com/Obvious/open-source/blob/master/apache-license-2.0.md)
-with a small clarifying preamble.
+For reference, projects manageed by A Medium
+Corporation include some using
+[MIT License](https://github.com/Medium/opensource/blob/master/mit-license.md)
+with a small clarifying preamble and some using
+the [Apache 2.0 License](https://github.com/Medium/opensource/blob/master/apache-license-2.0.md).
+
+In addition to our CLA, we have a policy where we avoid owning code that we don’t intend
+to maintain through use. If your patch is not in-line with our intended use case
+at Medium we will not merge it into any of our trees. But don't be discouraged! If
+that’s the case, we encourage you to run your own fork. Email us with a link to it
+and we will consider linking to it from the main repo.
 
 If you have any questions about any of this, please raise them by
-filing a bug on this project, since there's a good chance that if you
+filing a bug on this project, since there’s a good chance that if you
 have a question then someone else has the same question too. If it is
-really and truly a private matter, then you can mail Obvious's
+really and truly a private matter, then you can mail Medium’s
 official Open Sourceror privately, at
-[open-source@obvious.com](mailto:open-source@obvious.com).
+[open-source@medium.com](mailto:open-source@medium.com).
 
 Thanks, and happy hacking!
 
 Cheers,
 
-Your friends at The Obvious Corporation
+Your friends at A Medium Corporation
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -88,45 +94,33 @@ List of Projects
 These are [Node](http://nodejs.org/) modules that can be used pretty directly as
 libraries in applications.
 
-* [Async Builder](https://github.com/Obvious/asyncBuilder) &mdash;
-  Asynchronous dependency loading "the cool way".
-* [Bidar](https://github.com/Obvious/bidar) &mdash; Binary serialization
-  and object iteration.
-* [Composers](https://github.com/Obvious/composers) &mdash; Asynchronous
-  programming framework.
-* [Daemon Sauce](https://github.com/Obvious/daemonsauce) &mdash; Making
+* [Daemon Sauce](https://github.com/Medium/daemonsauce)&#8201;&mdash;&#8201;Making
   it easy to be a proper *nix daemon.
-* [Falkor](https://github.com/Obvious/falkor) &mdash; HTTP Level Functional
+* [Dynamite](https://github.com/Medium/dynamite)&#8201;&mdash;&#8201;A promise-based DynamoDB client.
+* [Falkor](https://github.com/Medium/falkor)&#8201;&mdash;&#8201;HTTP Level Functional
   Testing Library.
-* [Leb](https://github.com/Obvious/leb) &mdash; Utilities for the LEB128
-  number representation.
-* [Matador](https://github.com/Obvious/matador) &mdash; Application
+* [Kew](https://github.com/Medium/kew)&#8201;&mdash;&#8201;A lightweight promise library optimized for node.js
+* [Matador](https://github.com/Medium/matador)&#8201;&mdash;&#8201;Application
   framework.
-* [Oid](https://github.com/Obvious/oid) &mdash; Utilities for object
+* [Oid](https://github.com/Medium/oid)&#8201;&mdash;&#8201;Utilities for object
   identity.
-* [Pipette](https://github.com/Obvious/pipette) &mdash; Stream and pipe
+* [Pipette](https://github.com/Medium/pipette)&#8201;&mdash;&#8201;Stream and pipe
   utilities.
-* [Populator](https://github.com/Obvious/populator) &mdash;
-  Asynchronous object populator.
-* [Ursa](https://github.com/Obvious/ursa) &mdash; RSA public/private key
-  crypto.
-* [Typ](https://github.com/Obvious/typ) &mdash; Type predicates and
+* [Shepherd](https://github.com/Medium/shepherd)&#8201;&mdash;&#8201;Asynchronous dependency injection for node.js.
+* [Typ](https://github.com/Medium/typ)&#8201;&mdash;&#8201;Type predicates and
   assertions.
-* [Variants](https://github.com/Obvious/variants) &mdash; A variants
+* [Variants](https://github.com/Medium/variants)&#8201;&mdash;&#8201;A variants
   (experiments, mods) system with dynamic flag evaluation.
 
 ### Node Build Tools
 
 These are build-time tools packaged as [Node](http://nodejs.org/) modules.
 
-* [PhantomJS](https://github.com/Obvious/phantomjs) &mdash; NPM wrapper for
+* [PhantomJS](https://github.com/Medium/phantomjs)&#8201;&mdash;&#8201;NPM wrapper for
   grabbing the right PhantomJS binary.
-* [Plovr](https://github.com/Obvious/plovr) &mdash; Integration of
-  the Plovr JavaScript build tool (a packaging of the Google Closure compiler).
-* [Soynode](https://github.com/Obvious/soynode) &mdash; Integration of
+* [Soynode](https://github.com/Medium/soynode)&#8201;&mdash;&#8201;Integration of
   the Soy template system (part of Google Closure).
 
 ### Other
 
-* [Open Source Umbrella Project](https://github.com/Obvious/open-source)
-  &mdash; This site.
+* [Open Source Umbrella Project](https://github.com/Medium/opensource)&#8201;&mdash;&#8201;This site.

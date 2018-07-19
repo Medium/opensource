@@ -1,29 +1,29 @@
-Sign the OCLA
+Sign the CLA
 =============
 
-This page is the step-by-step guide to signing the Obvious
+This page is the step-by-step guide to signing the Medium
 Contributors License Agreement. It's easy and pretty painless!
 For an explanation about why we ask you to do this, see the
-[OCLA Rationale page](ocla-rationale.md).
+[CLA Rationale page](cla-rationale.md).
 
 1. First and foremost, read [the current version of the
-   OCLA](ocla-1.0.md). It is written to be as close to plain
+   CLA](cla-2.0.md). It is written to be as close to plain
    English as possible.
 
 2. Make an account on [GitHub](https://github.com/) if you don't already
    have one.
 
-3. File a pull request on this project (the Obvious Open Source
+3. File a pull request on this project (the Medium Open Source
    Umbrella Project), as [outlined below](#filing-the-pull-request).
 
-4. Email the Obvious Open Sourceror, as [outlined below](#sending-the-email).
+4. Email the Medium Open Sourceror, as [outlined below](#sending-the-email).
 
-5. Wait for an Obvious team member to merge your pull request.
+5. Wait for a Medium team member to merge your pull request. You may start
+   opening pull requests for the project you're contributing to but we will
+   only be able to merge your contributions after your signed CLA is merged.
 
-6. Contribute!
-
-If you wish to, you may also file the OCLA in paper form. Please
-see the instructions on [the paper OCLA page](sign-ocla-paper.md)
+If you wish to, you may also file the CLA in paper form. Please
+see the instructions on [the paper CLA page](sign-cla-paper.md)
 for details.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -45,9 +45,9 @@ Put the following in the file:
 ```
 [date]
 
-I hereby agree to the terms of the Obvious Contributors License
-Agreement, version 1.0, with MD5 checksum
-fbe613f727e76c93e4a5967536c87fbe.
+I hereby agree to the terms of the Contributors License
+Agreement, version 2.0, with MD5 checksum
+0962bd43bb8849553d91650a78cb2924.
 
 I furthermore declare that I am authorized and able to make this
 agreement and sign this declaration.
@@ -64,6 +64,15 @@ Replace the bracketed text as follows:
 * `[your name]` with your name.
 * `[your github userid]` with your GitHub userid.
 
+You can confirm the MD5 checksum of the CLA by running the md5 program over `cla-2.0.md`:
+
+```
+md5 cla-2.0.md
+MD5 (cla-2.0.md) = 0962bd43bb8849553d91650a78cb2924
+```
+
+If the output is different from above, do not sign the CLA and let us know.
+
 That's it!
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -71,13 +80,13 @@ That's it!
 Sending the Email
 -----------------
 
-Send an email to Obvious's official Open Sourceror
-at [open-source@obvious.com](mailto:open-source@obvious.com),
-with the subject "OCLA" and the following body:
+Send an email to Medium's official Open Sourceror
+at [open-source@medium.com](mailto:open-source@medium.com),
+with the subject "CLA" and the following body:
 
 ```
 I submitted a pull request to indicate agreement to the terms
-of the Obvious Contributors License Agreement.
+of the Contributors License Agreement.
 
 Signed,
 
