@@ -91,6 +91,7 @@ libraries in applications.
 
 * [Daemon Sauce](https://github.com/Medium/daemonsauce)&#8201;&mdash;&#8201;Making
   it easy to be a proper *nix daemon.
+* [Datadog Utils](https://github.com/Medium/datadog-utils);&#8201;Go-based library for easier navigation and transparency of Datadog internals.
 * [Dynamite](https://github.com/Medium/dynamite)&#8201;&mdash;&#8201;A promise-based DynamoDB client.
 * [Falkor](https://github.com/Medium/falkor)&#8201;&mdash;&#8201;HTTP Level Functional
   Testing Library.
