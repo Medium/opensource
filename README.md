@@ -54,7 +54,7 @@ To get started with this process, visit the
 [Sign the CLA](https://github.com/Medium/opensource/blob/master/sign-cla.md)
 page.
 
-For reference, projects manageed by A Medium
+For reference, projects managed by A Medium
 Corporation include some using
 [MIT License](https://github.com/Medium/opensource/blob/master/mit-license.md)
 with a small clarifying preamble and some using
@@ -70,7 +70,7 @@ If you have any questions about any of this, please raise them by
 filing a bug on this project, since there’s a good chance that if you
 have a question then someone else has the same question too. If it is
 really and truly a private matter, then you can mail Medium’s
-official Open Sourceror privately, at
+official Open Source or privately, at
 [open-source@medium.com](mailto:open-source@medium.com).
 
 Thanks, and happy hacking!
