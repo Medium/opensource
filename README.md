@@ -93,7 +93,7 @@ libraries in applications.
   it easy to be a proper *nix daemon.
 * [Datadog Utils](https://github.com/Medium/datadog-utils);&#8201;Go-based library for easier navigation and transparency of Datadog internals.
 * [Dynamite](https://github.com/Medium/dynamite)&#8201;&mdash;&#8201;A promise-based DynamoDB client.
-* [Falkor](https://github.com/Medium/falkor)&#8201;&mdash;&#8201;HTTP Level Functional
+* [Falkor](https://github.com/Medium/falkor-archived)&#8201;&mdash;&#8201;HTTP Level Functional
   Testing Library.
 * [Kew](https://github.com/Medium/kew)&#8201;&mdash;&#8201;A lightweight promise library optimized for node.js
 * [Matador](https://github.com/Medium/matador)&#8201;&mdash;&#8201;Application
